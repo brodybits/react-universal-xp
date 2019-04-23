@@ -1,0 +1,24 @@
+{
+  "name": "react-universal-xp",
+  "version": "0.0.1-dev",
+  "description": "React Universal wrapper for react-native-web & react-native",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Christopher J. Brody <chris@brody.consulting>",
+  "homepage": "https://github.com/brodybits/react-universal-xp#readme",
+  "repository": "github:brodybits/react-universal-xp",
+  "dependencies": {
+    "is-node": "^1.0.2"
+  },
+  "peerDependencies": {
+    "react": ">= 16.5.0",
+    "react-dom": ">= 16.5.0",
+    "react-native-web": ">= 0.11.0"
+  },
+  "devDependencies": {
+    "react": "~16.5.2",
+    "react-dom": "~16.5.2",
+    "react-native": "^0.57.8",
+    "react-native-web": "^0.11.2"
+  }
+}
