@@ -1,6 +1,6 @@
 {
   "name": "react-universal-xp",
-  "version": "0.0.1-dev",
+  "version": "0.0.1",
   "description": "React Universal wrapper for react-native-web & react-native",
   "license": "MIT",
   "main": "index.js",
